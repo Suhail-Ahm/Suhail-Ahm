@@ -4,6 +4,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/suhail-ahm/">
 <!--       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+    <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
