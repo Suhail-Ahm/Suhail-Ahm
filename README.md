@@ -6,3 +6,10 @@
 <h2 align="center">Data Analyst | Data Scientist | Full Stack Software Developer</h2>
 
 ### :man_technologist: &nbsp;Tools & Languages:
+<p align=left>
+<img align="middle" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=45 />
+<img align="middle" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width=35 />
+
+
+
+</p>
