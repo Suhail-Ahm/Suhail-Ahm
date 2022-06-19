@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="" width="200" height="">
+<img src="https://github.com/Suhail-Ahm/Suhail-Ahm/blob/main/images/main.svg" alt="" width="150">
 </div>
 <br>
-<div align="center" style="margin-top:20px;">
-  <a href="https://www.linkedin.com/in/suhail-ahm/">
-    <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
-  </a>
-</div>
+<h2 align="center"><b>ENTHUSIASTIC {__PROGRAMMER__} &#160; </b> <img width="20" align="middle" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" /><img width="20" align="middle" src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" /></h2>
+<h2 align="center">Data Analyst | Data Scientist | Full Stack Software Developer</h2>
+
+### :man_technologist: &nbsp;Tools & Languages:
